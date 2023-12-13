@@ -17,5 +17,5 @@ const parseCode = (str) => {
 };
 
 // Example usage:
-const str = prompt("Enter str: ");
+const str = "John000Doe000123";  // Provide the input directly instead of using prompt
 alert(JSON.stringify(parseCode(str)));
